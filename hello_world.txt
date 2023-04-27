@@ -1,0 +1,3 @@
+this is a test of how to use git.
+now this file has been created and will
+shortly be uploaded to gitHub...
