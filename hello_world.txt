@@ -1,3 +1,8 @@
 this is a test of how to use git.
 now this file has been created and will
 shortly be uploaded to gitHub...
+
+Now I was able to open this file in VS Code from the program's
+terminal simply by typing:
+"code hello_world.txt"
+Pretty cool so far!
